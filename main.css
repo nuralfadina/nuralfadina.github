@@ -397,6 +397,7 @@ h3{
 .blog-left p{
     color: #999;
     padding: 0;
+    text-align: justify;
 }
 
 .blog-right{
